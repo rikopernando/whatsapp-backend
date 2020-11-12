@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "rikopernando <rikopernando96@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13",
+    "pusher": "^4.0.1"
+  }
+}
